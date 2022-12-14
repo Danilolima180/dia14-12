@@ -1,0 +1,11 @@
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\bin\Debug\aula14Dezembro.exe.config
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\bin\Debug\aula14Dezembro.exe
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\bin\Debug\aula14Dezembro.pdb
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.csproj.AssemblyReference.cache
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.Form1.resources
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.Properties.Resources.resources
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.csproj.GenerateResource.cache
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.csproj.CoreCompileInputs.cache
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.exe
+C:\Users\danilo.rlima5\source\repos\aula14Dezembro\aula14Dezembro\obj\Debug\aula14Dezembro.pdb
